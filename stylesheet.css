@@ -1,0 +1,33 @@
+.header-list h1{
+  font-size: 40px;
+  color:#00ECFF	;
+  border-bottom: 1px solid #00FF3B;
+   text-align:center;
+ }
+   .copy-container h1 {
+  font-size: 30px;
+   }
+   .copy-container p{
+     font-size: 30px;
+     margin: 80px;
+     margin-left: 0px;
+   }
+   .contents{
+     margin-top: 80px;
+   }
+   .contents img{
+     width: 1000px;
+     height: 500px;
+   }
+   .taisaku{
+     font-size: 20px;
+     color: #000080;
+     border-bottom: 5px solid #FFFF00;
+     width: 40px
+   }
+   .dai{
+     margin-top: 120px;
+   }
+   .sosite{
+     font-size: 30px;
+   }
